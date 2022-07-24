@@ -8,7 +8,7 @@
 
 ## **_Welcome!_**
 
-Welcome to my custom admin dashboard. I wanted to create an example of what a dashboard would look like on a site where sales would be made. Such as a dropshipper or reseller would see when handling their products.
+Welcome to my custom admin dashboard. I wanted to create an example of what a dashboard would look like on a site where sales would be made. Such as a dropshipper or reseller would see when handling their products. Theres a lot of style out there of simple and complex dashboards, but most of them look the same. I wanted to create my own style, and give it a new look for people who are creating and selling.
 
 ## **_Features_**
 
@@ -19,6 +19,14 @@ I plan on featuring a number of navigations that will be used, such as profile, 
 ![Example1](https://themes.getbootstrap.com/wp-content/uploads/2022/01/clever-admin-dashboard-template-badge-2x.jpg)
 
 ![Example2](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)
+
+## **Future Updates**
+
+[ ] Added a custom color option
+
+[ ] Allows users to intergrate more then one account
+
+[ ] Can export details and reports
 
 ## **_Credits_**
 
