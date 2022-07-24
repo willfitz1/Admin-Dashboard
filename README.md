@@ -30,4 +30,4 @@ I plan on featuring a number of navigations that will be used, such as profile, 
 
 [drawIO](https://drive.google.com/file/d/1f8EtNYmoNLHXHDW9lxpdJ5n1JDt9A5cp/view?usp=sharing)
 
-[LucidChart]()
+[LucidChart](https://lucid.app/lucidchart/72435a7f-d7c8-4a9b-91d0-fd551852e912/edit?viewport_loc=628%2C7%2C1899%2C1035%2C0_0&invitationId=inv_64c94c5c-5040-4f11-8238-83594d2030d6#)
