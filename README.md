@@ -16,7 +16,9 @@ I plan on featuring a number of navigations that will be used, such as profile, 
 
 ## **_Screenshots_**
 
-I havent added any screenshots yet, I'm still thinking of ideas.
+![Example1](https://themes.getbootstrap.com/wp-content/uploads/2022/01/clever-admin-dashboard-template-badge-2x.jpg)
+
+![Example2](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)
 
 ## **_Credits_**
 
