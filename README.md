@@ -20,7 +20,7 @@ I havent added any screenshots yet, I'm still thinking of ideas.
 
 ## **_Credits_**
 
-[Trello](https://trello.com/b/9ACW2UCw/project-1)
+[Trello](https://trello.com/b/AcS6yvMt/dashboard)
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
