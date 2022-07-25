@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "admin-dashboard",
+  "description": "## Date 7/24/2022",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willfitz1/Admin-Dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willfitz1/Admin-Dashboard/issues"
+  },
+  "homepage": "https://github.com/willfitz1/Admin-Dashboard#readme"
+}
