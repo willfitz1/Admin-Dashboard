@@ -7,13 +7,23 @@ const cors = require('cors')
 const PORT = process.env.PORT || 3001
 const app = express()
 
+const { Item } = require('./models/items')
+
 app.use(cors())
 app.use(express.json())
 app.use(logger('dev'))
 app.use(express.urlencoded({ extended: false }))
-
 app.use('/api', routes)
 
 db.on('error', console.error.bind(console, 'MongoDB connectioon error:'))
+
+// app.get('/item', async (req, res) => {
+//   const items = await Item.find({})
+//   res.json(items)
+// })
+
+// app.get('/', (req, res) => {
+//   res.send('This is root!')
+// })
 
 app.listen(PORT, () => console.log(`Listening on port: ${PORT}`))

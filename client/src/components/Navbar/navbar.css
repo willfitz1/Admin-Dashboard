@@ -1,0 +1,27 @@
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color: white;  
+}
+
+.navbarWrap {
+  height: 100%;
+  padding: 0px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 50px;
+  color: dodgerblue;
+  cursor: pointer;
+}
+
+.topAvatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  cursor: pointer;
+}
